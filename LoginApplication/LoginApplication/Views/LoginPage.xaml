@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginApplication.Views.LoginPage">
+    <ContentPage.Content>
+        <TableView Intent="Form" VerticalOptions="Center">
+            <TableRoot>
+                <TableSection Title="Login">
+                    <EntryCell Label="Tc Kimlik No :" x:Name="txtTcKimlik" Keyboard="Numeric" Text="{Binding TcNo}" ></EntryCell>
+                    <EntryCell Label="Şifre :" x:Name="txtSifre" Keyboard="Numeric" Text="{Binding Sifre}" ></EntryCell>
+                    <ViewCell>
+                        <Button Text="Giris" Clicked="girisButton_Clicked"></Button>
+                    </ViewCell>
+                </TableSection>
+            </TableRoot>
+        </TableView>
+
+    </ContentPage.Content>
+</ContentPage>

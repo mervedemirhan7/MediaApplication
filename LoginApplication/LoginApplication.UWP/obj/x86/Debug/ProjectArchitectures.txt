@@ -1,0 +1,1 @@
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication.UWP\LoginApplication.UWP.csproj;x86

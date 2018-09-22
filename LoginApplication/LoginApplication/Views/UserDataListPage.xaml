@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginApplication.Views.UserDataListPage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="MenuInsertItem" Order="Primary" Icon="icon.png" Text="Item 1" Priority="0" Activated="MenuInsertItem_Activated" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+
+        <StackLayout>
+            <Label Text="Kullanıcı Data Liste"></Label>
+            <ListView x:Name="lstKullaniciData" ItemsSource="{Binding .}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Id}" Detail="{Binding Aciklama}" >
+                        </TextCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+    
+    
+</ContentPage>

@@ -1,0 +1,34 @@
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\bin\Debug\netstandard2.0\LoginApplication.deps.json
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\bin\Debug\netstandard2.0\LoginApplication.dll
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\bin\Debug\netstandard2.0\LoginApplication.pdb
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\LoginApplication.csprojAssemblyReference.cache
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\Views\UserListPage.xaml.g.cs
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\LoginApplication.csproj.CoreCompileInputs.cache
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\LoginApplication.AssemblyInfoInputs.cache
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\LoginApplication.AssemblyInfo.cs
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\LoginApplication.dll
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\LoginApplication.pdb
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\Views\InsertPage.xaml.g.cs
+F:\LoginApplication\LoginApplication\LoginApplication\bin\Debug\netstandard2.0\LoginApplication.deps.json
+F:\LoginApplication\LoginApplication\LoginApplication\bin\Debug\netstandard2.0\LoginApplication.dll
+F:\LoginApplication\LoginApplication\LoginApplication\bin\Debug\netstandard2.0\LoginApplication.pdb
+F:\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\LoginApplication.csprojAssemblyReference.cache
+F:\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\Views\InsertPage.xaml.g.cs
+F:\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+F:\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\Views\UserListPage.xaml.g.cs
+F:\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\Views\UserPage.xaml.g.cs
+F:\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\LoginApplication.csproj.CoreCompileInputs.cache
+F:\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\LoginApplication.AssemblyInfoInputs.cache
+F:\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\LoginApplication.AssemblyInfo.cs
+F:\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\XamlC.stamp
+F:\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\LoginApplication.dll
+F:\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\LoginApplication.pdb
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\LoginApplication.csproj.CopyComplete
+C:\Users\Merve Demirhan\source\repos\LoginApplication\LoginApplication\LoginApplication\obj\Debug\netstandard2.0\Views\UserDataListPage.xaml.g.cs
